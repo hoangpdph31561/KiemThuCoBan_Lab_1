@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiemThuCoBan_Lab_1_Code", "KiemThuCoBan_Lab_1_Code\KiemThuCoBan_Lab_1_Code.csproj", "{04FA043E-9AE6-4C42-B2BF-DC8C4F7E9DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiemThuCoBan_Lab_2_Test", "KiemThuCoBan_Lab_2_Test\KiemThuCoBan_Lab_2_Test.csproj", "{AC9A531A-720A-4E55-83CB-A549AC05B92E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FA043E-9AE6-4C42-B2BF-DC8C4F7E9DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FA043E-9AE6-4C42-B2BF-DC8C4F7E9DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FA043E-9AE6-4C42-B2BF-DC8C4F7E9DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FA043E-9AE6-4C42-B2BF-DC8C4F7E9DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9A531A-720A-4E55-83CB-A549AC05B92E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9A531A-720A-4E55-83CB-A549AC05B92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9A531A-720A-4E55-83CB-A549AC05B92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9A531A-720A-4E55-83CB-A549AC05B92E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {534FE6F9-AA5B-4BA1-92E2-16086A801925}
+	EndGlobalSection
+EndGlobal
